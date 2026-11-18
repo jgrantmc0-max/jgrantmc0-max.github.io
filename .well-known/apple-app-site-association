@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8BF2U4BRYM.com.jgrantmc0max.FieldMark"],
+        "components": [
+          { "/": "/clearviewmaps-site/p/*", "comment": "Pin links open Clearview Maps" },
+          { "/": "/clearviewmaps-site/j/*", "comment": "Join links open Clearview Maps" }
+        ]
+      }
+    ]
+  }
+}
